@@ -1,0 +1,42 @@
+.blok1 .container h1{
+	text-align: center;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border-radius: 4px;
+}
+.blok2 img{
+	display: block;
+	margin: 0 auto;
+}
+.blok3{
+	padding-top: 20px;
+}
+.blok3 .col-md-4 p{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border-radius: 4px;
+}
+.blok4 p{
+	text-align: justify;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border-radius: 4px;
+}
+.blok4{
+	padding-top: 20px;
+}
+.blok5 h1{
+	text-align: center;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border-radius: 4px;
+}
+.blok5{
+	padding-top: 20px;
+}
+.blok6 ul{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.blok6 img{
+	display: block;
+	margin: 0 auto;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
